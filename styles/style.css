@@ -998,6 +998,7 @@ iframe {
   }
   .modal__purchase {
     padding: 3rem;
+    height: auto;
   }
   .modal__city {
     padding: 3rem;
@@ -1011,6 +1012,7 @@ iframe {
   }
   .modal__purchase {
     padding: 2rem;
+    height: auto;
   }
   .modal__city {
     padding: 1rem;
