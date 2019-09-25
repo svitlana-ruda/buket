@@ -1185,6 +1185,10 @@ footer .footer__copyright {
   padding: 10px 0 0 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "SF UI Display", sans-serif;
   color: #1b1b1b;

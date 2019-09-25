@@ -58,6 +58,10 @@
 @import "_components";
 @import "_footer";
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	font-family: $font-family-primary;
 	color: $cod-gray;
